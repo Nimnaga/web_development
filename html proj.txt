@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>Website Project</title>
+</head>
+<body>
+<table border="0" width="100%" height="60" cellspacing="5" cellpadding="5" bgcolor="black">
+    <tr>
+       <td align="left">
+          <table width="547" border="0" align="center" cellpadding="1" cellspacing="1">
+            <td width="96"><font face="verdana, geneva, sans-serif" color="white"><h3>Home<//h3></font></td>
+            <td width="113"><font face="verdana, geneva, sans-serif" color="white"><h3>About<//h3></font></td>
+            <td width="128"><font face="verdana, geneva, 55555555sans-serif" color="white"><h3>Services<//h3></font></td>
+            <td width="114"><font face="verdana, geneva, sans-serif" color="white"><h3>Client<//h3></font></td>
+            <td width="80"><font face="verdana, geneva, sans-serif" color="white"><h3>Customer<//h3></font></td>
+	      </table>
+	    </td>
+	</tr>
+ </table>
+ 
+ <table border="0" width="100%" height="150" cellspacing="5" cellpadding="5" bgcolor="lightgray">
+    <tr>
+       <td align="center">
+          <table width="708" border="0" cellspacing="1" cellpadding="1">
+             <tr>
+                 <td width="338" align="left"><font face="verdana, geneva, sans-serif" color="black" size="5">
+                    <strong>My Business</strong>
+                            <br>
+                         website</font></td>
+                    <td width="338" align="right"><font face="verdana, geneva, sans-serif" color="black" size="5">
+                      <strong>Call Us Today</strong>
+                         <br>
+                         1800-000-000</font>
+				    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+ </table>
+ 
+ <table width="100%" height="150" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+      <tr>
+         <td align="center">
+            <table width="600" border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td align="center"><img src="website2.jpg" width="980" height="300"></td>
+              </tr>
+             </table>
+ <table border="0" width="100%" height="72"  cellspacing="5" cellpadding="5">
+    <tr>
+       <td align="center" height="72" valign="top">
+          <table width="730" border="0" cellspacing="1" cellpadding="1">
+            <tr>
+              <td width="726" align="center"><font face="verdana, geneva,sans-serif" size="6" color="black">This is my company website<strong><br>
+                   Dream. Plan. create.</strong><br />
+                       </font>
+			  </td>
+		    </tr>
+	      </table>
+       </td>
+    </tr>
+ </table>
+ 
+ <table border="0" width="100%" height="236" cellspacing="5" cellpadding="5" bgcolor="white">
+   <tr>
+      <td height="72" align="center" valign="top">
+         <table width="313" border="0" cellspacing="3" cellpadding="3" bgcolor="orange">
+           <tr>
+              <td width="301" align="center" nowrap="nowrap"><font color="white" size="5" face="verdana,geneva,sans-serif"><a href="#">contact us Today</a><br></font></td>
+            </tr>
+		  </table>
+		</td>
+	</tr>
+  <tr>
+      <td align="center"  height="72" valign="top"><font face="verdana, geneva,sans-serif" color="black" size="2"><strong>Register for our Newsletter:</strong></font><br>
+       <form name="contact" method="post" action="send.php">
+      <input type="text" id="textfield" placeholder="enter" name="email">
+      <input name="submit" type="button" value="submit">
+     </form>
+	 </td>
+   </tr>
+</table>
+<table border="0" width="100%" height="236" cellspacing="5" cellpadding="5" bgcolor="white">
+  <tr>
+    <td height="72" align="center" valign="top">
+      <table width="900" border="1" bordercolor="black" cellspacing "0" cellpadding="8">
+        <tr>
+         <td width="268"><font face="verdana,geneva, sans-serif" color="black" size="3"><strong><u>ABOUT US</u></strong></font></td>
+          <td width="268"><font face="verdana,geneva, sans-serif" color="black" size="3"><strong><u>OUR VISION</u></strong></font></td>
+          <td width="268"><font face="verdana,geneva, sans-serif" color="black" size="3"><strong><u>SERVICES</u></strong></font></td></tr><tr>
+         </tr>
+		 <td> <font face="verdana,geneva,sans-serif" color="black" size="2">we believe in pushing boundaries, challenging norms, and exceeding expectations. Our journey began with a simple yet profound mission: to [briefly describe the core mission or purpose of the company, e.g., revolutionize the way people access information, redefine luxury travel, etc.]. Since our inception, we have remained steadfast in our dedication to this mission, continuously striving to deliver unparalleled value to our customers and stakeholders.</font></td>
+		 <td> <font face="verdana,geneva,sans-serif" color="black" size="2">To be the premier provider of innovative solutions that empower individuals and organizations to achieve their full potential. We envision a world where technology is leveraged to drive positive change, foster collaboration, and create opportunities for growth and prosperity. Our commitment to excellence, integrity, and social responsibility guides everything we do, as we strive to make a meaningful difference in the lives of our customers, employees, and communities.</font></td>
+         <td valign="top">
+		    <font face="verdana" color="black" size="2">
+			  <ul>
+			    <li>Strategy &amp; Organisation<br></li>
+				<li>Corporate Development<br></li>
+				<li>Globalisation<br></li>
+				<li>Corporate Finance<br></li>
+				<li>Corporate Finance<br></li>
+				<li>IT Management<br></li>
+			   </ul>
+			<font>   
+		</td>		
+		</tr>		
+		
+      </table>
+    </td>
+   </tr>
+</table>
+<table width="100%" cellspacing="5" cellpadding="5" border="0" height="60" bgcolor="black">
+   <tr>
+      <td align="center">
+	     <font face="verdana,geneva,sans-serif" color="white"> Home - About - Services - Clients - Contact<br>
+		 ©2024 by MyBusiness Website.</font>
+	   </td>
+    <tr>
+</table> 
+ </body>
+ </html> 
